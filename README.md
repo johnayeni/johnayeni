@@ -6,4 +6,4 @@ I spend most on my time coding 👨🏽‍💻 and when I am not, I am busy desi
 
 I am also a big fan of sports, 🏀 and ⚽️ mainly and I am currenctly training myself to be a decent point guard in basketball.
 
-In recent times, I a, currently working on empowering modern online and offline payments for Africa at [Paystack](https://paystack.com/).
+I am currently working on empowering modern online and offline payments for Africa at [Paystack](https://paystack.com/).
