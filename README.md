@@ -1,6 +1,6 @@
 ### Mucho gusto conocerte 😁
 
-I am still working on my spanish so I am not so great at it yet. Me llamo John (My name is John Ayeni), and I am a Software engineer, mostly into Front end and mobile technologies 📱.
+Me llamo John (My name is John Ayeni), and I am a Software engineer, mostly into Front end and mobile technologies 📱.
 
 I spend most on my time coding 👨🏽‍💻 and when I am not, I am busy designing ([Dribbble](https://dribbble.com/johnayeni)) 🖌, writing ([DevDesigner](http://devdesigner.xyz/) & [Medium](https://medium.com/@johnayeni)) 📝, or contributing to open source [NPM](https://www.npmjs.com/~johnayeni) 🚀.
 
