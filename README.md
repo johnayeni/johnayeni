@@ -52,7 +52,7 @@ I spend most on my time coding 👨🏽‍💻 and when I am not, I am either wr
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/johnayeni/"><img alt="John' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=johnayeni&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/johnayeni/"><img alt="John' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=johnayeni&custom_title=John%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
 
