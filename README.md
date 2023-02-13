@@ -30,7 +30,7 @@ I spend most on my time coding 👨🏽‍💻 and when I am not, I am either wr
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://www.linkedin.com/in/john-ayeni-ifeoluwapo/"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/john-ayeni-ifeoluwapo/" alt="LinkedIn Badge"></a> 
+        <a href="https://www.linkedin.com/in/john-ayeni-ifeoluwapo/"><img src="https://img.shields.io/badge/-John%20Ayeni%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/john-ayeni-ifeoluwapo/" alt="LinkedIn Badge"></a> 
    </p>
 
  <!-- Connect section: END -->
