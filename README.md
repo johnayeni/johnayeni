@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.johnayeni.com">Website</a> •
-  <a href="https://twitter.com/johnayeni_">Twitter</a>
+  <a href="https://www.johnayeni.com">Website</a>
 </p>
 
  <!-- About section -->
