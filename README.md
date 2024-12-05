@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! Mijn naam is John</h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there, it's John</h3>
 
 <!-- Profile Views -->
 
@@ -16,12 +16,7 @@
 ---
 ✨ Hi there, I am a Software engineer, passionate about building delightful experiences that can help solve real world problems. 
 
-I spend most on my time coding 👨🏽‍💻 and when I am not, I am either writing ([Medium](https://medium.com/@johnayeni)) or working on the [Inside the techosystem](https://insidethetechosystem.com/) podcast
-
-
-- 📫 How to reach me: [@johnayeni](https://twitter.com/johnayeni_)
-
-- ⚡ Fun fact: I enjoy many types of sports and I play basketball. You can also send me a friend request on PSN (johnayeni) to play some 2k or Fifa. I occasionally post some dope photos from my travels on [Instagram](https://www.instagram.com/johnayeni_/) 
+I spend most of my time coding 👨🏽‍💻 and when I am not, I am either writing ([Substack]([https://medium.com/@johnayeni](https://limestack.substack.com/))) or working on the [Inside the techosystem](https://insidethetechosystem.com/) podcast.
 
 <!-- About section: END -->
 
