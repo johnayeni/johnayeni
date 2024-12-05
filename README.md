@@ -16,7 +16,7 @@
 ---
 ✨ Hi there, I am a Software engineer, passionate about building delightful experiences that can help solve real world problems. 
 
-I spend most of my time coding 👨🏽‍💻 and when I am not, I am either writing ([Substack]([https://medium.com/@johnayeni](https://limestack.substack.com/))) or working on the [Inside the techosystem](https://insidethetechosystem.com/) podcast.
+I spend most of my time coding 👨🏽‍💻 and when I am not, I am either writing ([Substack](https://limestack.substack.com/)) or working on the [Inside the techosystem](https://insidethetechosystem.com/) podcast.
 
 <!-- About section: END -->
 
